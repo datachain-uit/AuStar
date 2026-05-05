@@ -34,9 +34,6 @@ This repository accompanies an academic study and is intended for **research, re
 
 ---
 
-
-
-
 ## ⚙️ Methodology Overview
 
 ![Methodology Overview](media/Framework.png)
