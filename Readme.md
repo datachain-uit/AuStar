@@ -36,19 +36,7 @@ This repository accompanies an academic study and is intended for **research, re
 
 ## ⚙️ Methodology Overview
 
-Content will be updated later
-
----
-
-## 🧪 Experimental Setup
-
-Content will be updated later
-
----
-
-## 📂 Repository Structure
-text
-Content will be updated later
+![Methodology Overview](media/Framework.png)
 
 ## Contributors
 
